@@ -27,5 +27,5 @@ For support, please contact the developer or create an issue in the repository.
 
 - Bootstrap 5
 - WordPress
-- Font Awesome (if used)
+- Font Awesome 
 - Other libraries used in the theme
